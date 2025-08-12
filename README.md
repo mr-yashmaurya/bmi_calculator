@@ -1,6 +1,8 @@
 # BMI Calculator
   :- A new BMI Calculator App Flutter project.
 
+ ![image alt ](https://github.com/mr-yashmaurya/bmi_calculator/blob/af1bc9425f6443377b78ed412222f1edf52c2cc7/BMIScreenshot.png)
+
 # Objective:
   :- Create an interactive BMI (Body Mass Index) calculator that makes use of arithmetic operations and
      Flutter UI elements like Slider, Container, Text, etc.
